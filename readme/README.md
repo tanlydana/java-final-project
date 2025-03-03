@@ -1,0 +1,4 @@
+Food Ordering System
+Project Overview: The Food Ordering System is a simple Java-based application designed to facilitate food ordering. The system allows users to input their username and student ID for login verification and confirms their identity. Once logged in, users can view a menu of food items along with their prices and estimated cooking times. Users can select food items, specify quantities, and choose to add more items before confirming the final order.
+
+The system also includes features for storing food menu information in a CSV file, providing a dynamic way to update the menu, and a CSV file for managing login credentials, making the system both scalable and easy to maintain.
